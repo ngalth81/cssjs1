@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/0ucQYF' target='_blank'><img src='https://lh3.googleusercontent.com/5BzsA8c40JJORAukZHb9SETRNAH3TB1aieU1mDuS5MtXEIzlhFudMPR35Ue-35xnTdCqR_Hluxeo-jVyCsnwRzFbe2MYoWhb=w1366-h768-no' width='728px'/><br/>Trà sữa ngon Tân Bình Cộng Hòa</a>. Tiên Hưởng Lotte. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/0ucQYF' target='_blank'><img src='https://lh3.googleusercontent.com/5BzsA8c40JJORAukZHb9SETRNAH3TB1aieU1mDuS5MtXEIzlhFudMPR35Ue-35xnTdCqR_Hluxeo-jVyCsnwRzFbe2MYoWhb=w1366-h768-no' width='500px'/><br/>Trà sữa ngon Tân Bình Cộng Hòa</a>. Tiên Hưởng Lotte. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
